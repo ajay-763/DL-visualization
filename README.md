@@ -15,3 +15,9 @@ Add training data into `training_data.csv` in the following form:
 Modify parameters in `params.py`.
 ## Training and Running:
 Run `run.py` to obtain a plot of decision boundary :smiley:
+## Example:
+### Training data
+<img src = "https://user-images.githubusercontent.com/74900693/224537647-eb035ebf-9cbd-490a-9eea-63d22e58e96c.png" width = 50% title = "Training data">
+
+### Model output (20 epochs):
+<img src = "https://user-images.githubusercontent.com/74900693/224537686-bd585b75-4fb8-4df3-a0a1-a7d7321b222f.png" width = 50% title = "Model output">

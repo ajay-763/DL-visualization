@@ -1,0 +1,14 @@
+Aim:
+1. To design a program that takes 2D inputs labeled '0' or '1' and predicts the output of a new 2D input given.
+2. The program must have a bunch of parameters that can be tweaked to modify its decision boundary.
+3. Plot the decision boundary, given labeled inputs and new input.
+
+File descriptions:
+//file: params.py -- contains all tweakable parameters
+//file: training_data.csv -- contains data in form: in1,in2,label
+//file: input.csv -- contains input in form: in1, in2
+//file: output.csv -- contains output in form: label
+//file: model_def.py -- defines the model used to predict
+//file: train.py -- trains the model on data to improve accuracy
+//file: run.py -- Run this to start the program
+//file: plot.py -- Plots the required plots
